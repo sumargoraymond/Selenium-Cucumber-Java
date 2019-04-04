@@ -16,7 +16,6 @@ _UI Negative test cases:_
 ***Prerequisite: Install maven & chromedriver***
 
 1. This simple automation test project supports both Chrome and Firefox in parallel
-2. `cd` to folder directory
-3. Modify `TestSuite.xml` according to preferences
-4. List of preferred cucumber folder to run can be edited on runner class(es)
-5. Run `mvn clean test` from terminal to run the tests on test suite
+2. Modify `TestSuite.xml` according to preferences
+3. List of preferred cucumber folder to run can be edited on runner class(es) E.g. `RunnerLoginFeatures.java`
+5. On terminal `cd` to folder directory and run `mvn clean test` to run the tests on test suite
