@@ -19,3 +19,14 @@ _UI Negative test cases:_
 2. Modify `TestSuite.xml` according to preferences
 3. List of preferred cucumber folder to run can be edited on runner class(es) E.g. `RunnerLoginFeatures.java`
 5. On terminal `cd` to folder directory and run `mvn clean test` to run the tests on test suite
+
+# Demo
+
+***1. Parallel Execution (Firefox and Chrome)***
+
+![Demo Parallel Execution Firefox & Chrome](https://im2.ezgif.com/tmp/ezgif-2-941606c71faa.gif)
+
+***2. One browser test (Commeting articles)***
+
+![Commenting Articles](https://im2.ezgif.com/tmp/ezgif-2-9d569fbe94a2.gif)
+
