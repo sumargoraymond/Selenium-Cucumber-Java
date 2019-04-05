@@ -24,9 +24,13 @@ _UI Negative test cases:_
 
 ***1. Parallel Execution (Firefox and Chrome)***
 
-![Demo Parallel Execution Firefox & Chrome](https://im2.ezgif.com/tmp/ezgif-2-941606c71faa.gif)
+![Demo Parallel Execution Firefox & Chrome](https://github.com/sumargoraymond/test-kumparan/blob/master/test-kumparan/demo/parallel720gif.gif)
 
 ***2. One browser test (Commenting articles)***
 
-![Commenting Articles](https://im2.ezgif.com/tmp/ezgif-2-9d569fbe94a2.gif)
+![Commenting Articles](https://github.com/sumargoraymond/test-kumparan/blob/master/test-kumparan/demo/comment720gif.gif)
+
+# Full Video Demo
+
+Full video demo can be found [here](https://github.com/sumargoraymond/test-kumparan/tree/master/test-kumparan/demo)
 
