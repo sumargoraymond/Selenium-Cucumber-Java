@@ -26,7 +26,7 @@ _UI Negative test cases:_
 
 ![Demo Parallel Execution Firefox & Chrome](https://im2.ezgif.com/tmp/ezgif-2-941606c71faa.gif)
 
-***2. One browser test (Commeting articles)***
+***2. One browser test (Commenting articles)***
 
 ![Commenting Articles](https://im2.ezgif.com/tmp/ezgif-2-9d569fbe94a2.gif)
 
